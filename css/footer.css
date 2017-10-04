@@ -1,0 +1,33 @@
+footer .navbar {
+	margin-bottom: 0;
+}
+footer .navbar-default {
+	background: url(../images/footer-background.png) no-repeat;
+	background-position-x: right;
+	background-position-y: center;
+	background-color: #9a8881;
+	padding-top: 30px;
+}
+footer .navbar-right {
+	margin-top: -20px;
+}
+footer .navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+footer .security {
+	color: #fff;
+	font-family: 'Comfortaa';
+	font-size: 14px;
+	text-align: center;
+}
+footer .navbar-brand {
+	color: #fff !important;
+	font-family: 'Comfortaa';
+	font-size: 13px;
+}
+footer .social li {
+	display: inline-block;
+}
+footer .social {
+	margin-top: 40px;
+}
